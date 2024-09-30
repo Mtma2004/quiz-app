@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Why we use <br> Element",
+    "answer_1": "To make text bold",
+    "answer_2": "To make text italic",
+    "answer_3": "To create horizental line",
+    "answer_4": "To add breakeline",
+    "answer_right": "To add breakeline"
+  },
+  {
+    "title": "Is <img> Element has attribute href",
+    "answer_1": "Yes",
+    "answer_2": "No its for anchor tag <a>",
+    "answer_3": "All elements has this attribute",
+    "answer_4": "Answer 1 and 3 is right",
+    "answer_right": "No its for anchor tag <a>"
+  },
+  {
+    "title": "How can we make element text bold",
+    "answer_1": "putting it inside <b> tag",
+    "answer_2": "putting it inside strong tag",
+    "answer_3": "customizing it with front_weight property in css",
+    "answer_4": "All answers is right",
+    "answer_right": "All answers is right"
+  },
+  {
+    "title": "How can we make element text italic",
+    "answer_1": "putting it inside <i> tag",
+    "answer_2": "putting it inside span tag",
+    "answer_3": "customizing it with font-family property in css",
+    "answer_4": "All answers is right",
+    "answer_right": "putting it inside <i> tag"
+  },
+  {
+    "title": "How can we make element text bigger",
+    "answer_1": "putting it inside <h1> tag",
+    "answer_2": "putting it inside div tag",
+    "answer_3": "customizing it with text-transform property in css",
+    "answer_4": "putting it inside label tag",
+    "answer_right": "putting it inside <h1> tag"
+  },
+  {
+    "title": "How can we make element text colored",
+    "answer_1": "putting it inside <b> tag",
+    "answer_2": "by using js",
+    "answer_3": "customizing it with front_weight property in css",
+    "answer_4": "customizing it with color property in css",
+    "answer_right": "customizing it with color property in css"
+  }
+]
